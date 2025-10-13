@@ -2,7 +2,7 @@
 I am Michele Zhu, a PhD Candidate at Politecnico di Milano. I'm passionate about programming, AI/ML, and software performance. 
 
 ## Programming Languages
-I like to write code in various languages, here I report the main ones in order of knowledge:
+The main programming languages that I know, in order of proficiency:
 1. Python
 2. C++
 3. MATLAB
