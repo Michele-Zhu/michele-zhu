@@ -9,9 +9,11 @@ The main programming languages that I know, in order of proficiency:
 
 But really, it's only the main ones I've played with C, Java, CUDA, C#, and so on.
 
-## Notices
+
 
 <!--
+## Notices
+
 **Michele-Zhu/michele-zhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
