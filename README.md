@@ -10,7 +10,7 @@ The main programming languages that I know, in order of proficiency:
 But really, it's only the main ones I've played with C, Java, CUDA, C#, and so on.
 
 ## Notices
-**13/10/2025** My personal webpage is under maintenance. 
+
 <!--
 **Michele-Zhu/michele-zhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
